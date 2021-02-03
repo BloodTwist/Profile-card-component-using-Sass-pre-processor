@@ -1,6 +1,9 @@
 # Frontend Mentor - Profile card component
 
+## Expectation
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+## Reality
+![Final result of this challenge](./design/final-result.png)
 
 ## Welcome! 👋
 
